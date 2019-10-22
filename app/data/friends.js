@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Tanner",
-      photo: "https://images.app.goo.gl/YA8Gn6pbuVk6TdtW9",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--1",
       scores: [
         "5",
         "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Devin",
-      photo: "https://images.app.goo.gl/e1srkid1UphQEF487",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--3",
       scores: [
         "4",
         "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
       name: "Tyler",
-      photo: "https://images.app.goo.gl/eZ9pon9Rb6Uu3ThR7",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--5",
       scores: [
         "5",
         "2",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Jessy",
-      photo: "https://images.app.goo.gl/xCKa3P6HbsqCyKMu6",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--4",
       scores: [
         "3",
         "3",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "Alexandria",
-      photo: "https://images.app.goo.gl/sQr531HdkhZELrdr8",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--7",
       scores: [
         "4",
         "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
       name: "Malik",
-      photo: "https://images.app.goo.gl/fiGGS9sCoguaK1QP7",
+      photo: "https://headshotcrew.com/dahiya/gallery/103333#view--6",
       scores: [
         "4",
         "4",
